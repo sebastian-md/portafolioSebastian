@@ -5,8 +5,8 @@
 }
 
 :root {
-    --primary:#88B0BF;
-    --secondary:white;
+    --primary:#18db86;
+    --secondary:rgb(255, 255, 255);
     --secondary-light:rgb(173, 173, 173);
     --dark1:#222222;
     --dark2:#050505;
